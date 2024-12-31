@@ -1,0 +1,170 @@
+{
+    "53": {
+      "money": 6000,
+      "cframe": "397.501404, 45.9230843, 365.398041, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "43": {
+      "money": 35000,
+      "cframe": "397.381317, 45.9230843, 371.181824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "guts_berserker"
+    },
+    "73": {
+      "money": 1000,
+      "cframe": "396.53363, 45.9230843, 374.000336, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "erwin"
+    },
+    "63": {
+      "money": 11000,
+      "cframe": "391.983368, 45.9230843, 371.313568, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "47": {
+      "money": 4500,
+      "cframe": "391.983368, 45.9230843, 371.313568, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "37": {
+      "cframe": "378.57782, 45.9230843, 373.766632, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "sell_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "67": {
+      "money": 20000,
+      "cframe": "404.160614, 45.9230843, 370.669128, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "57": {
+      "money": 3500,
+      "cframe": "404.160614, 45.9230843, 370.669128, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "27": {
+      "money": 800,
+      "cframe": "399.033813, 45.9230843, 368.231415, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "spawn_unit",
+      "unit": "wendy"
+    },
+    "17": {
+      "money": 5000,
+      "cframe": "397.738464, 45.9230843, 369.815247, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "ainz_evolved"
+    },
+    "13": {
+      "money": 6000,
+      "cframe": "397.381317, 45.9230843, 371.181824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "guts_berserker"
+    },
+    "33": {
+      "money": 20000,
+      "cframe": "397.738464, 45.9230843, 369.815247, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "ainz_evolved"
+    },
+    "23": {
+      "money": 775,
+      "cframe": "394.754791, 45.9230843, 372.230438, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "spawn_unit",
+      "unit": "erwin"
+    },
+    "42": {
+      "money": 1600,
+      "cframe": "404.160614, 45.9230843, 370.669128, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "spawn_unit",
+      "unit": "homura_evolved"
+    },
+    "52": {
+      "money": 4500,
+      "cframe": "397.501404, 45.9230843, 365.398041, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "62": {
+      "money": 8000,
+      "cframe": "391.983368, 45.9230843, 371.313568, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "36": {
+      "money": 25000,
+      "cframe": "397.381317, 45.9230843, 371.181824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "guts_berserker"
+    },
+    "46": {
+      "money": 3500,
+      "cframe": "391.983368, 45.9230843, 371.313568, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "56": {
+      "money": 2500,
+      "cframe": "404.160614, 45.9230843, 370.669128, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "66": {
+      "money": 15000,
+      "cframe": "404.160614, 45.9230843, 370.669128, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "homura_evolved"
+    },
+    "96": {
+      "money": 7000,
+      "cframe": "394.754791, 45.9230843, 372.230438, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "erwin"
+    },
+    "8": {
+      "money": 10000,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "bulma"
+    },
+    "6": {
+      "money": 4500,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "bulma"
+    },
+    "5": {
+      "money": 3000,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "bulma"
+    },
+    "1": {
+      "money": 800,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "spawn_unit",
+      "unit": "bulma"
+    },
+    "4": {
+      "money": 1500,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "bulma"
+    },
+    "7": {
+      "money": 7500,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "bulma"
+    },
+    "10": {
+      "money": 12500,
+      "cframe": "405.67807, 45.9230843, 373.318207, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+      "type": "upgrade_unit_ingame",
+      "unit": "bulma"
+    }
+  }
+  
